@@ -1,0 +1,39 @@
+# Privacy Policy for ThaiLicenseMaster
+
+## Introduction
+Welcome to  ThaiLicenseMaster. This privacy policy explains how we handle your personal information and data.
+
+## Information Collection
+We collect the following types of information:
+- ...
+
+## Use of Information
+The collected information is used to:
+- ...
+
+## Data Sharing
+We share your data with third parties:
+- ...
+
+## User Consent
+By using our app, you consent to:
+- ...
+
+## Data Security
+We protect your data by:
+- ...
+
+## User Rights
+You have the right to:
+- ...
+
+## Policy Updates
+Any changes to this policy will be communicated through:
+- ...
+
+## Contact Information
+For any privacy-related questions, contact us at:
+- ...
+
+## Governing Law
+This policy is governed by the laws of Thailand.
