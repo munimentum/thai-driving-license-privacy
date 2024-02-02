@@ -1,7 +1,21 @@
-How to delete your user id generated with premium access
+How to Request Deletion of Your User ID and Premium Access in ThaiLicenseMaster
+Application Name: ThaiLicenseMaster
+Developer Name: Alexis Morin (munimentum)
 
-Go to settings page on the mobile app ThaiLicenseMaster menu 
-and choice delete your account/access. 
+Procedure for Account/Data Deletion:
 
-It will delete your personal id which is the only data we use 
-that as a link with a physical person and the premium access bought.
+Navigate to Settings: Open the ThaiLicenseMaster app on your mobile device and go to the 'Settings' menu.
+
+Select Account Deletion: In the Settings menu, find and select the option labeled 'Delete Your Account/Access'.
+
+Confirm Deletion: Confirm your choice to proceed with the deletion. This action will permanently remove your user ID associated with your premium access.
+
+Details of Data Deletion:
+
+Types of Data Deleted: When you request the deletion of your account, your personal user ID, which is linked to your premium access purchase, will be permanently erased.
+
+Data Retention Policy: There is no retention of data following the deletion request. The process is immediate, and all data associated with your user ID will be completely removed without delay.
+
+Additional Information:
+
+The user ID referenced here is a unique identifier generated through RevenueCat for the purpose of managing premium access transactions. It is not directly associated with personally identifiable information like an email address. However, in compliance with data privacy regulations and to ensure our users' control over their data, we provide this option for account and data deletion.
